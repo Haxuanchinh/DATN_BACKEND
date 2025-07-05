@@ -1,0 +1,6 @@
+@SportManager.API_HostAddress = http://localhost:5056
+
+GET {{SportManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
